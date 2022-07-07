@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Capasitor Basic
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Implementing Capasitor.js in the CRA project
 
 ## Available Scripts
 
